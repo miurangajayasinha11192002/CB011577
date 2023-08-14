@@ -235,7 +235,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
       // Show a confirmation message or perform any other action after saving to local storage
       alert("Summary table data saved to local storage!");
-      window.location.href = "Details.html";
+      window.location.href = "details.html";
   };
 
   // Event listener for form submit
